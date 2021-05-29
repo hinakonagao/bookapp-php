@@ -3,12 +3,17 @@
 https://www.udemy.com/course/php7study/
 <br><br>
 
+## 使用技術
+・laravel 8.31.0<br>
+・PHP 7.3.11
+<br><br>
+
 ## 搭載機能
 ・ログイン機能<br>
 ・データの作成<br>
 ・データの一覧表示<br>
 ・データの削除<br>
-<br><br>
+<br>
 
 ## 学習内容
 ・環境構築（composerとlaravelのインストール、内蔵サーバ、データベースの接続設定）<br>
@@ -19,8 +24,4 @@ https://www.udemy.com/course/php7study/
 ・ログイン機能（laravel/ui)<br>
 ・認証機能(middleware('auth'))<br>
 ・バリデーション(Validatorクラス)<br>
-<br><br>
 
-## 使用技術
-・laravel 8.31.0<br>
-・PHP 7.3.11
