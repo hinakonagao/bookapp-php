@@ -17,7 +17,6 @@ https://www.udemy.com/course/php7study/
 
 ## 学習内容
 ・環境構築（composerとlaravelのインストール、内蔵サーバ、データベースの接続設定）<br>
-・環境構築（composerとlaravelのインストール、内蔵サーバ、データベースの接続設定）<br>
 ・PHPの対話式実行モード(php -a)<br>
 ・SQLite3を使用（テーブルの作成、データの登録、データの一覧表示等）<br>
 ・MVCモデルの概要、ルーティング<br>
