@@ -1,6 +1,7 @@
 ## 学習① 書籍管理アプリ（udemyでの学習）
 教材：【2日でできる】はじまてのPHP7×Larael6入門<br>
 https://www.udemy.com/course/php7study/
+<br><br>
 
 ## 使用技術
 ・laravel 8.31.0<br>
@@ -12,7 +13,7 @@ https://www.udemy.com/course/php7study/
 ・データの作成<br>
 ・データの一覧表示<br>
 ・データの削除<br>
-<br><br>
+<br>
 
 ## 学習内容
 ・環境構築（composerとlaravelのインストール、内蔵サーバ、データベースの接続設定）<br>
